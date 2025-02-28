@@ -52,7 +52,7 @@ module testbench();
 
   initial begin
     #(`one_nanos)
-    $readmemh("./coremark.hex", testbench.top.mem.srams.mem.mem_ext.ram);
+    $readmemh("./test.hex", testbench.top.mem.srams.mem.mem_ext.ram);
   end
 
 Platform top(
