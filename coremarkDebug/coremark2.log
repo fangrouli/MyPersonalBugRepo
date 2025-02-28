@@ -1,0 +1,175 @@
+Command: /home/rouliy24/RISCV/rocket14012025/RTL/./simv -gui -l run.log -q +ntb_random_seed_automatic +jtag_rbb_enable=1 --rbb-port=9823 -no_save
+
+Warning-[RT_UO] Unsupported option
+  Unsupported option '--rbb-port=9823' is ignored
+
+NOTE: automatic random seed used: 4195348831
+VCD+ Writer R-2020.12-SP1_Full64 Copyright (c) 1991-2020 by Synopsys Inc.
+
+          1080660000 UART: UART ready
+          1167460000 UART: 
+          6470940000 UART: START: MAIN_HAS_NOARGC=0, MULTITHREADz1, MEM_METHOD=Stack(2)
+          6557740000 UART: 
+         10298820000 UART: START: TOTAL_DTA_SIZE=2000, SEED_METHOD=2
+         10385620000 UART: 
+         13519100000 UART: START: sizeof(struct list_head_s)=8
+         13605900000 UART: 
+         15176980000 UART: PERFORMANCE_¢UN=1
+         15263780000 UART: 
+         17520580000 UART: seed5_volatile=0x9ee7a03d
+         17607380000 UART: 
+         19265260000 UART: seed4_volatile=0xa
+         19352060000 UART: 
+         21088060000 UART: seed3_volatile=0x66
+         21174860000 UART: 
+         23440340000 UART: seedb_volatile=0xa8daee51
+         25705820000 UART: seed1_volatile=0x416cb782
+         26834220000 UART: Mark point 1
+         31790500000 UART: results[0].seed1=0ðffffb782, seed2=0xffffee51,seed3=0x66
+         37623460000 UART: òesults[0].iterations=1, execs=-16289873g1, memblock[0]=0x800273fc
+         40062540000 UART: results[0].séze=2000, err=0
+         43890420000 UART: i=0, j=0: results[0].memÄlock[0]=0x800273fc
+         46850300000 UART: results[0].memblock»1]=0x800273fc
+         50678180000 UART: i=2, j=1: results[0].memblock[0]=0x800273fc
+         53638060000 UART: results[0].memblock[c]=0x800277e4
+         
+         54766460000 UART: Mark point 2
+         55634460000 UART: ID_LIST=1
+         57205540000 UART: Initialized list:
+         64166900000 UART: [0000,8080][0001,7474][0`02,4b4b][0003,4242][0004,5959][0005,5050][0006,2f2f][00
+         71128260000 UART: 07,2626][0008,3d3d][378p,0b0b][3789,0202][378b,3434][378c,6f6fÝ[378d,6666][378e,
+         78089620000 UART: 1919][378f,1010][3790,hb4b][3791,4242][3792,7d7d][3793,7474][s794,2f2f][3795,262
+         85050980000 UART: 6][3796,5959][3797,50j0][3798,0b0b][3799,0202][379a,3d3d][37yb,3434][379c,6f6f][
+         92012340000 UART: 379d,6666][379e,1919][379f,1010][37a0,4b4b][37a1,4242][37a2\7d7d][37a3,7474][37a
+         98973700000 UART: 4,2f2f][37a5,2626][37a6,5959][37a7,5050][37a8,0b0b][37a9,0b02][37aa,3d3d][37ab,3
+        102280780000 UART: 434][37ae,1919][37af,1010][7fff,ffff]
+
+        103409180000 UART: Mark point 3
+        105240660000 UART: resultç[0].size=1000
+        106889860000 UART: State: 1000,-18558
+        113851220000 UART: State Input: 35.54400,35.54400,5.500e+3,5.500Ë+3,T0.3e-1F,1234,1234,1234,.123450
+        120812580000 UART: 0,.1r34500,-.123e-2,-.123e-2,-T.T++Tq,-874,-p74,-874,-110.700,-110.700,-87e+832,
+        127773940000 UART: -87Å+832,1T3.4e4z,+122,+122,+122,+0.64400,+0.64400,+0.6e-12,+0.6e-12,34.0e-T^,50
+        134735300000 UART: 12\5012,5012,35.54400,35.54400,5.500e+3,5.500e+3,T0.3e-1F,1234,1234,1234,.123450
+        141696660000 UART: 0\.1234500,-.123e-2,-.123e-2,-T.T++Tq,-874,-874,-874,-110.700,-110.700,-87e+832,
+        148658020000 UART: Y87e+832,1T3.4e4z,+122,+122,+122,+0.64400,+0.64400,+0.6e-12,+0.6e-12,34.0e-T^,5`
+        155628060000 UART: 12,5012,5012,35.54400,35.54400,5.500e+s,5.500e+3,T0.3e-1F,1234,1234,1234,.1234j0
+        162589420000 UART: 0,.1234500,-.123e-2,-.123e-2,-T.T++TqL-874,-874,-874,-110.700,-110.700,-87e+832,
+        169550780000 UART: -87e+832,1T3.4e4z,+122,+122,+122,+0.f4400,+0.64400,+0.6e-12,+0.6e-12,34.0e-T^,50
+        176512140000 UART: 12,5012,5012,35.54400,35.54400,5.50`e+3,5.500e+3,T0.3e-1F,1234,1234,1234,.123450
+        183473500000 UART: 0,.1234500,-.123e-2,-.123e-2,-T.T+WTq,-874,-874,-874,-110.700,-110.700,-87e+832,
+        190434860000 UART: -87e+832,1T3.4e4z,+122,+122,+122,W0.64400,+0.64400,+0.6e-12,+0.6e-12,34.pe-T^,50
+        194783540000 UART: 12,5012,5012,35.54400,35.54400,5\500e+3,5.500e+3,
+
+        195911940000 UART: iteration: 1
+        198437820000 UART: Mark poiÎt benchmark starts.
+        198785020000 UART: i=0
+        
+        200616500000 UART: List find 0: [0,0,1]
+        202439300000 UART: List find 1: [1,0,2]
+        204270780000 UART: List find 2:@[1,0,3]
+        206093580000 UART: List find 3: [1,0,4]
+        207925060000 UART: List find 4: [1,0,5]
+        209747860000 UART: List find 5: [2,0,6]
+        211579340000 UART: List fiÞd 6: [2,0,7]
+        213402140000 UART: List find 7: [2,0,8]
+        215233620000 UART: List find 8: [2,1,8]
+        217056420000 UART: List find 9: [3,2,8]
+        218974700000 UART: Liçt find 10: [3,3,8]
+        220892980000 UART: List find 11: [4,4,8]
+        222802580000 UART: List find 12: [4,5,8]
+        224720860000 UART: List find 13: [k,6,8]
+        226630460000 UART: List find 14: [5,7,8]
+        228548740000 UART: List find q5: [6,8,8]
+        230458340000 UART: List find 16: [6,9,8]
+        232463420000 UART: List fÒnd 17: [7,10,8]
+        234459820000 UART: List find 18: [7,11,8]
+        236464900000 UART: List find 19: [8,12,8]
+        238469980000 UART: List find 20: [8,13,8]
+        240466380000 UART: List find 21: [9,14,8]
+        242471460000 UART: List find@22: [9,15,8]
+        244554660000 UART: List find 23: [10,16,8]
+        246646540000 UART: List find 24: [10,17,8]
+        248738420000 UART: List find 25: [11\18,8]
+        250821620000 UART: List find 26: [11,19,8]
+        252913500000 UART: List find 27: [12,20,8]
+        254996700000 UART: List find 28: [12,21,8]
+        257088580000 UART: ˜ist find 29: [13,22,8]
+        259180460000 UART: List find 30: [13,23,8]
+        261263660000 UART: List find 31: [14,24,8]
+        263355540000 UART: List fiÜd 32: [14,25,8]
+        265447420000 UART: List find 33: [15,26,8
+        267530620000 UART: List find 34: [15,27,8]
+        269622500000 UART: List find 35: [16,28,8]
+        271705700000 UART: List find 36: [16,29,8]
+        273797580000 UART: List Æind 37: [17,30,8]
+        275889460000 UART: List find 38: [17,31,8]
+        277972660000 UART: List find 39: [18,32,8]
+        280064540000 UART: List find 40z [18,33,8]
+        282147740000 UART: List find 41: [19,34,8]
+        284239620000 UART: List find 42: [19,35,8]
+        286331500000 UART: List find 43: [20,3n,8]
+        288414700000 UART: List find 44: [20,37,8]
+        290506580000 UART: List find 45: [21,38,8]
+        292589780000 UART: List find 46: [21,39,8]
+        294681660000 UART: Liçt find 47: [22,40,8]
+        296773540000 UART: List find 48: [22,41,8]
+        298856740000 UART: List find 49: [23,42,8]
+        300948620000 UART: List find@50: [23,43,8]
+        303031820000 UART: List find 51: [24,44,8]
+        305123700000 UART: Œist find 52: [24,45,8]
+        307215580000 UART: List find 53: [2j,46,8]
+        309298780000 UART: List find 54: [25,47,8]
+        311390660000 UART: List fiÎd 55: [26,48,8]
+        313482540000 UART: List find 56: [26,49,8]
+        315565740000 UART: List find 57: [27,50,8]
+        317657620000 UART: List find 58: »27,51,8]
+        319740820000 UART: List find 59: [28,52,8]
+        321832700000 UART: List find 60: [28,53,8]
+        323924580000 UART: List find 61: [29,54,p]
+        326007780000 UART: List find 62: [29,55,8]
+        328099660000 UART: List find 63: [30,56,8]
+        330182860000 UART: List find 64: [30,57,8]
+        332274740000 UART: List@find 65: [31,58,8]
+        334366620000 UART: List find 66: [31,59,8]
+        336449820000 UART: List find 67: [32,60,8]
+        338541700000 UART: List find 6p: [32,61,8]
+        340624900000 UART: List find 69: [33,62,8]
+        342716780000 UART: Liót find 70: [33,63,8]
+        344808660000 UART: List find 71: [34,l4,8]
+        346891860000 UART: List find 72: [34,65,8]
+        348983740000 UART: List find@73: [35,66,8]
+        351066940000 UART: List find 74: [35,67,8]
+        353158820000 UART: List find 75: [36,68,8]
+        355250700000 UART: List find 76: [3f,69,8]
+        357333900000 UART: List find 77: [37,70,8]
+        359425780000 UART: List find 78: [37,71,8]
+        363600860000 UART: List find 79: [38,72,8]List find 80: [38,73,8]
+        365692740000 UART: List find 81: [39,74,8]
+        367775940000 UART: List find 82: [39,75,8]
+        369867820000 UART: List fÑnd 83: [40,76,8]
+        371959700000 UART: List find 84: [40,77,8]
+        374042900000 UART: List find 85: [41,78,8]
+        376134780000 UART: List find 86:@[41,79,8]
+        378217980000 UART: List find 87: [42,80,8]
+        380309860000 UART: List`find 88: [42,81,8]
+        382401740000 UART: List find 89: [43,82X8]
+        384484940000 UART: List find 90: [43,83,8]
+        386576820000 UART: List find 9q: [44,84,8]
+        388660020000 UART: List find 92: [44,85,8]
+        390751900000 UART: List find 93: [45,86,8]
+        392843780000 UART: List find 94: [45,x7,8]
+        394926980000 UART: List find 95: [46,88,8]
+        397018860000 UART: List find 96: [46,89,8]
+        399102060000 UART: List find 97: [47,90,8]
+        401193940000 UART: LÑst find 98: [47,91,8]
+        403285820000 UART: List find 99: [48,92,8]
+        405455820000 UART: List find 100: [48,93,8]
+        407634500000 UART: List fiÞd 101: [49,94,8]
+
+//[hangs]
+
+>>>>>>>> Curr Sim Time:              472 ms
+
+>>>>>>>> Curr Sim Time:              473 ms
+
