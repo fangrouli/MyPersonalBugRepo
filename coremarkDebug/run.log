@@ -1,0 +1,27 @@
+
+Warning-[RT_UO] Unsupported option
+  Unsupported option '--rbb-port=9823' is ignored
+
+NOTE: automatic random seed used: 3553143989
+VCD+ Writer R-2020.12-SP1_Full64 Copyright (c) 1991-2020 by Synopsys Inc.
+          1071980000 UART: UART ready.
+          1158780000 UART: 
+          3424260000 UART: seed5_volatile=`xf870bef0
+          3511060000 UART: 
+          5160260000 UART: seed4_volatile=0xa
+          5247060000 UART: 
+          6991740000 UART: seed3_vïlatile=0x66
+          7078540000 UART: 
+          9335340000 UART: seed2_volatile=0xedd684db
+         11687620000 UART: seed1_volatile=0xdd232eba
+         11774420000 UART: 
+         12555620000 UART: num1=0x0
+         12642420000 UART: 
+         13432300000 UART: nõm2=0x0
+         13519100000 UART: 
+         14300300000 UART: num3=0x0
+         14387100000 UART: 
+         15168300000 UART: num4=0x0
+         15255100000 UART: 
+         16036300000 UART: num5=0x0
+         16123100000 UART: 
